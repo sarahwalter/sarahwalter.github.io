@@ -1,4 +1,5 @@
 <script type="text/javascript">
+<script type="text/javascript" src="/script.js"></script>
 
 window.addEventListener('load', onVrViewLoad)
 function onVrViewLoad() {
